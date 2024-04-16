@@ -1,2 +1,0 @@
-script:
-  - ruby -e '"Hello, From imported script commit folder1!"'
