@@ -6,4 +6,4 @@ script:
 - ruby -e 'puts ENV[MY_ENV] || Hello, World!'
 
 import:
-  - source: %{commit_message}/.print.yml 
+  - source: %{commit_message}/.build.yml 
